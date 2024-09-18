@@ -106,7 +106,10 @@ This dashboard is highly significant for:
   
 By answering critical business questions, this dashboard acts as a one-stop tool for understanding retail performance and driving growth.
 
----
+### Screenshot
+
+![image](https://github.com/user-attachments/assets/438e74d8-1deb-48b3-b2c4-5f751c37cccd)
+
 
 ## How to Use:
 
