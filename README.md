@@ -1,5 +1,4 @@
-# Walmart-Retail-Data-Analysis-and-Dashboard-Project
-Dynamic Retail Dashboard in Excel
+# Walmart Dynamic Dashboard in Excel
 
 ## Objective
 
